@@ -1,4 +1,4 @@
-# myauthapp
+# supabaseauthenticate
 
 A new Flutter project.
 
